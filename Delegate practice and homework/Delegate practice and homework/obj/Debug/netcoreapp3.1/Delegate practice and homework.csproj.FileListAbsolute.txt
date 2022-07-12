@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates\Delegate practice and homework\Delegate practice and homework\bin\Debug\netcoreapp3.1\Delegate practice and homework.exe
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates\Delegate practice and homework\Delegate practice and homework\bin\Debug\netcoreapp3.1\Delegate practice and homework.deps.json
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates\Delegate practice and homework\Delegate practice and homework\bin\Debug\netcoreapp3.1\Delegate practice and homework.runtimeconfig.json
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates\Delegate practice and homework\Delegate practice and homework\bin\Debug\netcoreapp3.1\Delegate practice and homework.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates\Delegate practice and homework\Delegate practice and homework\bin\Debug\netcoreapp3.1\Delegate practice and homework.dll
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates\Delegate practice and homework\Delegate practice and homework\bin\Debug\netcoreapp3.1\Delegate practice and homework.pdb
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates\Delegate practice and homework\Delegate practice and homework\obj\Debug\netcoreapp3.1\Delegate practice and homework.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates\Delegate practice and homework\Delegate practice and homework\obj\Debug\netcoreapp3.1\Delegate practice and homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates\Delegate practice and homework\Delegate practice and homework\obj\Debug\netcoreapp3.1\Delegate practice and homework.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates\Delegate practice and homework\Delegate practice and homework\obj\Debug\netcoreapp3.1\Delegate practice and homework.AssemblyInfo.cs
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates\Delegate practice and homework\Delegate practice and homework\obj\Debug\netcoreapp3.1\Delegate practice and homework.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates\Delegate practice and homework\Delegate practice and homework\obj\Debug\netcoreapp3.1\Delegate practice and homework.dll
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates\Delegate practice and homework\Delegate practice and homework\obj\Debug\netcoreapp3.1\Delegate practice and homework.pdb
+C:\Users\HP\Desktop\Homeworks\Homework 15 Delegates\Delegate practice and homework\Delegate practice and homework\obj\Debug\netcoreapp3.1\Delegate practice and homework.genruntimeconfig.cache
